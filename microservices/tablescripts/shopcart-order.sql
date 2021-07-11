@@ -13,6 +13,5 @@ create table Purchase (
 );
 
 insert into Purchase values (1, 1, 3, DATE(sysdate()), 90000, 0, 1); 
-delete from Purchase where id=1;
 
 select * from Purchase;

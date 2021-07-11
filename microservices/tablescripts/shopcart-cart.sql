@@ -12,5 +12,3 @@ create table Cart (
 insert into Cart values(1, 1, 1);
 insert into Cart values(2, 1, 3);
 commit;
-drop table Cart;
-select * from Cart;

@@ -1,4 +1,6 @@
-.metadata
-*/target/
+microservices/.metadata
+microservices/*/target/
+microservices/.DS_Store
+microservices/*/.DS_Store
 .DS_Store
-*/.DS_Store
+.metadata
